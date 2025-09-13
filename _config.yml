@@ -23,7 +23,7 @@ repository               : "zhang-bo7/zhang-bo7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_photo.png"
   name             : "Bo Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Third-year Master's student at Southeast University. Research interests: intelligent robotics and embodied AI."
