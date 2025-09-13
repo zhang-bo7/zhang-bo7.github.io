@@ -1,7 +1,7 @@
 ---
 title: "Embodied intelligence: Bionic robot controller integrating environment perception, autonomous planning, and motion control"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2024-03-18-embodied-intelligence
 excerpt: 'This paper presents a bionic robot controller that integrates environment perception, autonomous planning, and motion control.'
 date: 2024-03-18
