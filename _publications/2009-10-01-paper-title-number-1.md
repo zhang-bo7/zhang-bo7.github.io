@@ -6,9 +6,9 @@ permalink: /publication/2024-03-18-embodied-intelligence
 excerpt: 'This paper presents a bionic robot controller that integrates environment perception, autonomous planning, and motion control.'
 date: 2024-03-18
 venue: 'IEEE Robotics and Automation Letters (ICRA 2024 presentation)'
-slidesurl: 'http://academicpages.github.io/files/slides_embodied.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides_embodied.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10472590'
-bibtexurl: 'http://academicpages.github.io/files/bibtex_embodied.bib'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex_embodied.bib'
 citation: 'Zhang B, et al. (2024). "Embodied intelligence: Bionic robot controller integrating environment perception, autonomous planning, and motion control." <i>IEEE Robotics and Automation Letters</i>. (ICRA presentation).'
 ---
 
